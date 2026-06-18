@@ -15,37 +15,8 @@ CSS3 – For styling, spacing, colors, and layout
 Flexbox – For arranging skill tags
 Media Queries – For responsive design across different screen sizes
 # Structure Portfolio Website
-│
-├── HTML Document
-│   │
-│   ├── Head
-│   │   ├── Meta Charset
-│   │   ├── Viewport Settings
-│   │   ├── Title
-│   │   └── Internal CSS
-│   │
-│   └── Body
-│       │
-│       ├── Header
-│       │   ├── Container
-│       │   ├── Name
-│       │   └── Professional Title
-│       │
-│       ├── Main
-│       │   │
-│       │   ├── About Me Section
-│       │   │   ├── Heading
-│       │   │   └── Description
-│       │   │
-│       │   ├── Skills Section
-│       │   │   ├── Heading
-│       │   │   └── Skill Tags
-│       │   │
-│       │   └── Contact Section
-│       │       ├── Heading
-│       │       ├── Email
-│       │       ├── Phone Number
-│       │       └── Location
-│       │
-│       └── Footer
-│           └── Copyright Information
+header:for the top introduction
+main:for the main content
+section:for About Me, Skills, and Contact
+div:for container and skill blocks
+footer:for the bottom copyright note
